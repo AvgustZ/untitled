@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02b2ab01-4fc3-462e-9013-b77401a75da0" name="Default Changelist" comment="Well done one more)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../HW/JS.task1.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1kQm3tdpCJnOpsJuVA22DfjHlbX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW/JS task1.html" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b2ab01-4fc3-462e-9013-b77401a75da0" name="Default Changelist" comment="" />
+      <created>1605640995340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605640995340</updated>
+      <workItem from="1605640997414" duration="307000" />
+      <workItem from="1605693395752" duration="582000" />
+      <workItem from="1605695360178" duration="14000" />
+      <workItem from="1605695473069" duration="313000" />
+      <workItem from="1605704902945" duration="19252000" />
+      <workItem from="1605794891997" duration="2800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Deployment" timestamp="1605740548864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1605740548864" />
+    <state x="314" y="0" key="CommitChangelistDialog2" timestamp="1605797628110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605797628110" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605797027317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605797027317" />
+    <state x="564" y="262" key="Github.ShareDialog" timestamp="1605740411037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="564" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605740411037" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605797509656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605797509656" />
+    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605740796838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605740796838" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605796225517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605796225517" />
+  </component>
+</project>
